@@ -1,0 +1,18 @@
+/* 
+https://coolors.co/   color pallet gen tool free
+
+https://www.youtube.com/watch?v=n4R2E7O-Ngo
+2:23:00
+
+fonts.google.com
+
+*/
+body {
+    background-color: black;
+}
+
+@media(min-width: 768px){
+    .news-input {
+        width: 50%;
+    }
+}
